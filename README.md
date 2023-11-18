@@ -15,9 +15,6 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 - Sign Out
 
 
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/instagram-flutter-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
 
 
 ## Installation
